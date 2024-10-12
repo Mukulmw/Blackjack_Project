@@ -55,10 +55,4 @@ You can install the required dependencies using:
 pip install art
 ```
 
-## License
-
-This project is licensed under the MIT License. Feel free to modify and use it in your own projects.
-
----
-
 Feel free to customize the content as per your project and GitHub setup!
